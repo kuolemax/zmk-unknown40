@@ -1,0 +1,10 @@
+file_format: "1"
+id: unknown40
+name: unknown 40
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+  - ble
